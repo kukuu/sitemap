@@ -65,7 +65,6 @@ const Sitemap = require('../').default;
 
 It's a minimal example. After running the script, a `sitemap.xml` file will be created, which includes all paths, described in the configuration of `react-router`.
 
-A more detailed example can be found in the `example` directory. You can also explore the details of the [API](api.md).
-
+A more detailed example can be found in the `example` directory. 
 
 
